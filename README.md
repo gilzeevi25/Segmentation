@@ -12,6 +12,7 @@ in this project you can find the following implementations:
 ### 3.K-MEANS clustering
  Accepting both gray and RGB images
 ### 4.Graph Normalized Cut - recursive implementation
- As presented in Normalized Cuts and Image Segmentation,by Shi and Malik
+ As presented in Normalized Cuts and Image Segmentation,by Shi and Malik.
+ 
   i used 0 and median for thresholding the 2nd lowest eigenvalue, and limited the recursion to depth = 3. 
   the partition works as perfect binary tree 
