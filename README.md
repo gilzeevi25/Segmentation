@@ -1,6 +1,6 @@
 # Segmentation
 Image segmentation varios methods almost from scratch:
-n this project i will demonstrate several methods for image segmentation that was presented to us. my goal is to implement each method by myself, and then possibly, add some nice adjustments to it to try to improve it.
+in this project i will demonstrate several methods for image segmentation that was presented to us. my goal is to implement each method by myself, and then possibly, add some nice adjustments to it to try to improve it.
 the evaluation method will be F - score measurement which uses precision and recall (see notebook for formulas)
 I will use  images from The Weizmann Horse Database which contains 328 side-view color images of horses that were also manually segmented for ground truth evaluations.
 the credit goes to Eran Borenstein and his site: https://www.msri.org/people/members/eranb/
