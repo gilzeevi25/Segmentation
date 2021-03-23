@@ -6,6 +6,7 @@ the evaluation method will be F - score measurement which uses precision and rec
 
 I will use  images from The Weizmann Horse Database which contains 328 side-view color images of horses that were also manually segmented for ground truth evaluations.
 the credit goes to Eran Borenstein and his site: https://www.msri.org/people/members/eranb/
+
 in this project you can find the following implementations:
 ### 1.Global & Local (adaptive) thresholds segmentation variations
 ### 2.Region growing with automatic seeds generation
