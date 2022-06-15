@@ -1,4 +1,5 @@
 # Segmentation
+![visitors](https://visitor-badge.glitch.me/badge?page_id=gilzeevi25.Segmentation.issue.1) <br/>
 Image segmentation various methods almost from scratch:
 in this project i will demonstrate several methods for image segmentation. my goal is to implement each method by myself, and then possibly, add some nice adjustments to it to try to improve it.
 
